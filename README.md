@@ -1,5 +1,8 @@
 # Cultivo
 
+![alt text](http://www.biolleyfarms.com/uploads/1/1/7/4/117475281/coffee-bananas_2.jpg "Finca Lilo-Biolley,Costa Rica")
+
+
 A digital alliance to protect our tropical rainforest and empower its inhabitants
 
 ## Mission
@@ -32,5 +35,25 @@ In the tropical rainforest of southern Costa Rica, Cultivo is an organization th
 ## Repos 
 
 ### [home](https://github.com/cultivo/home)
+- homeof the organization
 ### [info](https://github.com/cultivo/info)
+- organization wiki
 ### [www_cultivo_earth](https://github.com/cultivo/www_cultivo_earth)
+- landing page website: [cultivo.earth](https://cultivo.earth "Cultivo")
+
+
+## Contacts
+
+Email: 
+
+Location:
+
+Days of Operation: 
+
+Hours of Operation: 
+
+Contact Phone: 
+
+## Repository Owners
+
+

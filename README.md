@@ -31,6 +31,6 @@ In the tropical rainforest of southern Costa Rica, Cultivo is an organization th
 
 ## Repos 
 
-### home
-### info
-### www_cultivo_earth
+### [home](https://github.com/cultivo/home)
+### [info](https://github.com/cultivo/info)
+### [www_cultivo_earth](https://github.com/cultivo/www_cultivo_earth)

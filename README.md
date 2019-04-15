@@ -35,7 +35,7 @@ In the tropical rainforest of southern Costa Rica, Cultivo is an organization th
 ## Repos 
 
 ### [home](https://github.com/cultivo/home)
-- homeof the organization
+- home of the organization
 ### [info](https://github.com/cultivo/info)
 - organization wiki
 ### [www_cultivo_earth](https://github.com/cultivo/www_cultivo_earth)
@@ -44,15 +44,7 @@ In the tropical rainforest of southern Costa Rica, Cultivo is an organization th
 
 ## Contacts
 
-Email: 
-
-Location:
-
-Days of Operation: 
-
-Hours of Operation: 
-
-Contact Phone: 
+Email: connect@cultivo.earth
 
 ## Repository Owners
 Olivia Jurado
